@@ -1,2 +1,3 @@
-# Biuld a CNN model to classify the MNIST handwritten digits dataset.
+# Computer Vision
+Biuld a CNN model to classify the MNIST handwritten digits dataset.
 
